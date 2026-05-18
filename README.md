@@ -8,4 +8,4 @@ MATLAB project for analyzing and comparing interpolation techniques including La
 
 0123456
 01234
-0123
+012
