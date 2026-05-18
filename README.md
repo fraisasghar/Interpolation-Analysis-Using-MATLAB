@@ -7,5 +7,5 @@ MATLAB project for analyzing and comparing interpolation techniques including La
 
 
 0123456789
-012345678
+01234567
 01234567
