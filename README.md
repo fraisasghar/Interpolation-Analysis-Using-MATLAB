@@ -6,4 +6,4 @@ MATLAB project for analyzing and comparing interpolation techniques including La
 
 
 
-.0123456789r
+.0123456789
