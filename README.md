@@ -17,9 +17,6 @@
 </div>
 
 
-
-
-
 ## Introduction
 This project implements and compares four interpolation methods applied to experimental stress-strain data of a copper alloy. Using discrete measurement points, the methods construct continuous curves to estimate material behavior at any intermediate strain level. This MATLAB Project is for analyzing and comparing interpolation techniques including Lagrange interpolation, Newton divided difference, linear interpolation, and cubic spline interpolation on experimental stress-strain data. Includes visualization of all interpolation methods and estimation of intermediate values using numerical analysis techniques.
 
