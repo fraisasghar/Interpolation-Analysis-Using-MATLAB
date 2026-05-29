@@ -6,13 +6,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Methods-Lagrange%20|%20Newton-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Methods-Linear%20|%20Spline-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engineering-Material%20Science-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Methods-Lagrange%20|%20Newton-E74C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Methods-Linear%20|%20Spline-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subject-Numerical%20Analysis-8E44AD?style=for-the-badge" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
