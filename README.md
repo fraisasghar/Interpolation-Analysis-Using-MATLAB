@@ -60,10 +60,17 @@ This project implements and compares four interpolation methods applied to exper
 
 
 
-
-
-
-
+<div align="center">
+  <h3>From Discrete Points to Continuous Curves</h3>
+  
+  <p>If this project enhanced your numerical analysis skills, give it a ⭐ Star on GitHub!</p>
+  
+  <p>
+    <strong>Built with MATLAB · Driven by Data · Refined by Science</strong><br>
+    <em>Interpolate · Visualize · Validate</em>
+      <em>Keep Analyzing, Keep Computing</em>
+  </p>
+</div>
 
 
 
